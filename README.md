@@ -1,3 +1,7 @@
+![Screenshot](Screenshot.png)
+
+This plugin is designed to work with jayofelony Pwnagotchi 2.9.5.4
+
 # Pwnagotchi Web SSH Setup (Step by Step)
 
 This guide walks through setting up browser-based SSH in the Pwnagotchi Web UI using:
