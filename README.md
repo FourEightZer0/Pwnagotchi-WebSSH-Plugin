@@ -135,3 +135,10 @@ sudo systemctl status ttyd --no-pager
 sudo systemctl status pwnagotchi --no-pager
 sudo ss -ltnp | grep -E "7681|8080|8081"
 ```
+
+Check out my other plugins
+- Pwnagotchi-Nomagotchi-Food-Plugin
+- Pwnagotchi-TrashTalk-Custom-Phrases-Plugin
+- Pwnagotchi-EXPv3-Plugin
+- Pwnagotchi-WebSSH-Plugin
+https://github.com/FourEightZer0
